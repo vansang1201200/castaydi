@@ -1,0 +1,12 @@
+{
+    "studen":[
+        {
+            "ID":1,
+            "Fullnema":"văn Sáng",
+            "Phone":"0353253293",
+            "avatar":"ảnh/sang.jpg",
+            "Classes":"12b9",
+            "Dob":"12/1/2000"
+        }
+    ]
+}
