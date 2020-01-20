@@ -1,0 +1,238 @@
+{
+  "Students": [
+    {
+      "FullName": "Hoàng Công Danh",
+      "Avatar": "http://media.doisongphapluat.com/602/2019/7/10/hot-boy-sinh-nam-2001-duoc-hoi-chi-em-san-don-2.jpg",
+      "DOB": "07/07/2000",
+      "Phone": "07888999815",
+      "id": 4,
+      "Class": {
+        "id": "1",
+        "Name": "C12"
+      }
+    },
+    {
+      "FullName": "Lê Văn Sáng",
+      "Avatar": "https://cdn.jamja.vn/blog/wp-content/uploads/2018/02/nhuom-toc-nam-mau-nau-khoi-1.jpg",
+      "DOB": "12/1/2000",
+      "Phone": "0353253293",
+      "id": 5,
+      "Class": {
+        "id": "3",
+        "Name": "C14"
+      }
+    },
+    {
+      "FullName": "Hoàng Đăng Trọng",
+      "Avatar": "https://dotobjyajpegd.cloudfront.net/photo/5cb99837a449d212f33d5d68",
+      "DOB": "14/8/2000",
+      "Phone": "05329654784",
+      "id": 6,
+      "Class": {
+        "id": "1",
+        "Name": "C12"
+      }
+    },
+    {
+      "FullName": "Nguyễn Thanh Minh",
+      "Avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTk0FsKFs9qKpSipJjD38h_EPyHCg7lUb2ZArIEM8I69DesCT1v&s",
+      "DOB": "15/2/2000",
+      "Phone": "07562354678",
+      "Class": {
+        "id": "2",
+        "Name": "C13"
+      },
+      "id": 7
+    },
+    {
+      "FullName": "Nguyễn Thái Đạo",
+      "Avatar": "https://liembarbershop.com/vn/wp-content/uploads/2018/01/nh-do-cam-800x638.jpg",
+      "DOB": "14/5/2000",
+      "Phone": "09094651245",
+      "Class": {
+        "id": "1",
+        "Name": "C12"
+      },
+      "id": 8
+    },
+    {
+      "FullName": "Lê Văn Ái",
+      "Avatar": "https://wikicachlam.com/wp-content/uploads/2019/01/mau-toc-nhuom-dep-cho-nam-da-trang-24.jpg",
+      "DOB": "15/4/2000",
+      "Phone": "0856565236",
+      "Class": {
+        "id": "3",
+        "Name": "C14"
+      },
+      "id": 9
+    },
+    {
+      "FullName": "Lê Văn Khả",
+      "Avatar": "https://media.ex-cdn.com/EXP/media.giadinhvietnam.com/files/news/2016/08/08/1498842786.jpg",
+      "DOB": "13/9/2000",
+      "Phone": "0925453154",
+      "Class": {
+        "id": "2",
+        "Name": "C13"
+      },
+      "id": 10
+    },
+    {
+      "FullName": "Lê Văn Xanh",
+      "Avatar": "https://dichvuhay.vn/wp-content/uploads/kpop/2017/05/100-kieu-toc-nam-nhuom-mau-xanh-reu-dep-nhat-cua-dan-sao-kpop-2016-4.jpg",
+      "DOB": "7/5/2000",
+      "Phone": "0765451234",
+      "Class": {
+        "id": "2",
+        "Name": "C13"
+      },
+      "id": 11
+    },
+    {
+      "FullName": "Phạm Duy",
+      "Avatar": "https://miro.medium.com/max/1260/0*FH0M1wmJUOO_FiVA.jpg",
+      "DOB": "30/1/2001",
+      "Phone": "0756325564",
+      "id": 12,
+      "Class": {
+        "id": "1",
+        "Name": "C12"
+      }
+    },
+    {
+      "FullName": "Chí Công",
+      "Avatar": "https://phaidep.biz/wp-content/uploads/2015/11/mau-nhuom-toc-nam-dep-hot-nhat-2016-tre-trung-sanh-dieu-9.jpg",
+      "DOB": "8/6/2000",
+      "Phone": "0865613245",
+      "Class": {
+        "id": "1",
+        "Name": "C12"
+      },
+      "id": 13
+    },
+    {
+      "FullName": "Nguyễn Thanh Hương",
+      "Avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpyKe05ZpvS_4nsgaDtynfJoBbnuycDGNaAe7WIOMMB5Ge2uh7&s",
+      "DOB": "15/6/2000",
+      "Phone": "086132456",
+      "Class": {
+        "id": "2",
+        "Name": "C13"
+      },
+      "id": 14
+    },
+    {
+      "FullName": "Hoàng Thị Uyên",
+      "Avatar": "https://i.pinimg.com/originals/fb/ba/e6/fbbae6d92e0066c9e6e36c8982152e54.jpg",
+      "DOB": "4/2/2000",
+      "Phone": "0365646582",
+      "Class": {
+        "id": "1",
+        "Name": "C12"
+      },
+      "id": 15
+    },
+    {
+      "FullName": "Nguyễn Phước",
+      "Avatar": "https://cachlammoi.com/wp-content/uploads/2018/05/mau-nau-hat-de-mau-toc-nam-duoc-yeu-thich-1.png",
+      "DOB": "7/9/2000",
+      "Phone": "03531458975",
+      "Class": {
+        "id": "1",
+        "Name": "C12"
+      },
+      "id": 16
+    },
+    {
+      "FullName": "Nguyễn Trọng",
+      "Avatar": "https://tocnamdep.com/uploads/tiny_uploads/mau-toc-nam-dep-036.jpg",
+      "DOB": "6/7/2000",
+      "Phone": "08456132454",
+      "Class": {
+        "id": "2",
+        "Name": "C13"
+      },
+      "id": 17
+    },
+    {
+      "FullName": "Nguyễn Thắng",
+      "Avatar": "https://znews-photo.zadn.vn/w660/Uploaded/ycgmvjvj/2018_04_01/8_2.jpg",
+      "DOB": "8/5/2000",
+      "Phone": "031123465514",
+      "Class": {
+        "id": "2",
+        "Name": "C13"
+      },
+      "id": 18
+    },
+    {
+      "FullName": "Lê Thi Hồng Gấm",
+      "Avatar": "https://vtimes.com.au/up/images/10-18/3105933-cac-mau-toc-nhuom-giup-la-0.jpg",
+      "DOB": "5/4/2000",
+      "Phone": "05468746456",
+      "Class": {
+        "id": "3",
+        "Name": "C14"
+      },
+      "id": 19
+    },
+    {
+      "FullName": "Lê Thị Thu Ngọc",
+      "Avatar": "http://www.infobeauty.net/uploaded/H2(97).jpg",
+      "DOB": "5/7/2000",
+      "Phone": "07845124565",
+      "Class": {
+        "id": "2",
+        "Name": "C13"
+      },
+      "id": 20
+    },
+    {
+      "FullName": "Dịu Hương",
+      "Avatar": "http://2sao.vietnamnetjsc.vn/2015/01/12/15/24/101hinh1.jpg",
+      "DOB": "9/9/2000",
+      "Phone": "03561748654",
+      "Class": {
+        "id": "2",
+        "Name": "C13"
+      },
+      "id": 21
+    },
+    {
+      "FullName": "Lê Văn Hóa",
+      "Avatar": "https://cdn.jamja.vn/blog/wp-content/uploads/2018/04/nhung-kieu-toc-nhuom-xam-khoi-nam-dep-2.jpg",
+      "DOB": "26/5/2000",
+      "Phone": "0756412345",
+      "Class": {
+        "id": "2",
+        "Name": "C13"
+      },
+      "id": 22
+    },
+    {
+      "FullName": "Nguyên Văn Anh",
+      "Avatar": "https://i.pinimg.com/236x/bc/d2/83/bcd283072a7ae76c97e0c23f763fe3ce.jpg",
+      "DOB": "12/1/2000",
+      "Phone": "0765865264",
+      "Class": {
+        "id": "2",
+        "Name": "C13"
+      },
+      "id": 23
+    }
+  ],
+  "Classes": [
+    {
+      "id": "1",
+      "Name": "C12"
+    },
+    {
+      "id": "2",
+      "Name": "C13"
+    },
+    {
+      "id": "3",
+      "Name": "C14"
+    }
+  ]
+}
